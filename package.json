@@ -1,0 +1,22 @@
+{
+  "name": "cricbot",
+  "version": "1.0.0",
+  "description": "Cricbot to get cricket matches, scores etc",
+  "main": "lib/cricbot.js",
+  "bin": {
+    "cricbot": "bot.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sudarshan",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0",
+    "node-cricapi": "^1.2.5",
+    "path": "^0.12.7",
+    "request": "^2.81.0",
+    "request-promise": "^4.1.1",
+    "slackbots": "^1.0.2"
+  }
+}

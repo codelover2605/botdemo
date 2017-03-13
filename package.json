@@ -14,6 +14,7 @@
   "dependencies": {
     "https": "^1.0.0",
     "node-cricapi": "^1.2.5",
+    "node-emoji": "^1.5.1",
     "path": "^0.12.7",
     "request": "^2.81.0",
     "request-promise": "^4.1.1",
